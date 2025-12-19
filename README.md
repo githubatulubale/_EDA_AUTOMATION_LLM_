@@ -1,33 +1,4 @@
-<div align="center">
-
-<svg width="100%" height="80">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#ff4b1f">
-        <animate attributeName="stop-color"
-          values="#ff4b1f;#1fddff;#9d4edd;#ffb703;#ff4b1f"
-          dur="4s"
-          repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#1fddff">
-        <animate attributeName="stop-color"
-          values="#1fddff;#9d4edd;#ffb703;#ff4b1f;#1fddff"
-          dur="4s"
-          repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <text x="50%" y="55%"
-        text-anchor="middle"
-        font-size="36"
-        font-weight="bold"
-        fill="url(#grad)">
-    🚀 InsightIQ – Automated EDA with AI-Powered Insights
-  </text>
-</svg>
-
-</div>
+# 🚀 InsightIQ – Automated EDA with AI-Powered Insights
 
 <div align="center">
   <h2>Exploratory Data Analysis Automation using Streamlit</h2>
